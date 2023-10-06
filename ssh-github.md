@@ -36,5 +36,5 @@
 8. Clone git repo through ssh, the do changes and commit-push to github.
 
 # Reference
-1. https://www.petanikode.com/github-ssh/
+1. https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Key-Setup-Config-Ubuntu-Linux
 
