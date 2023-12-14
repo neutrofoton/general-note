@@ -3,11 +3,6 @@
 1. cd ~/.ssh
 2. Run 
     ```bash
-    ssh-key -t rsa
-    ```
-
-    if <code>ssh-key</code> not found, do
-     ```bash
     ssh-keygen -t rsa
     ```
 
