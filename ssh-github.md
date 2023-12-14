@@ -6,6 +6,11 @@
     ssh-key -t rsa
     ```
 
+    if <code>ssh-key</code> not found, do
+     ```bash
+    ssh-keygen -t rsa
+    ```
+
     Fill the name (in this example) <code>neutro</code>. Then just enter the remain.
 
 3. The ssh key should be generated private and public
